@@ -17,7 +17,7 @@
 
 ## About Me
 
-- **K-Digital 피지컬 AI 과정**에서 Python, 컴퓨터 비전, 웹, Git을 배우고 있습니다.
+- **K-Digital 피지컬 AI 과정**(트레이닝: ETEDU)에서 Python, 컴퓨터 비전, 웹, Git을 배우고 있습니다.
 - 웹캠과 AI 모델(YOLO, MediaPipe, Teachable Machine)로 **현실 세계를 인식하는 프로그램**을 주로 만듭니다.
 - 만든 프로그램은 **GitHub Pages와 Vercel로 배포**해서 링크 하나로 바로 써 볼 수 있게 합니다.
 - 모든 프로젝트에 **작업 기록과 학습 노트**를 남깁니다. 무엇을 했는지와 함께 왜 그렇게 했는지도 적습니다.
@@ -78,9 +78,9 @@
 
 ## Education & Certifications
 
-| 구분 | 이름 | 기관 | 기간 |
-|---|---|---|---|
-| 교육 | K-Digital Training **피지컬 AI 과정** | K-Digital | 2026 ~ 수강 중 |
+| 구분 | 과정 | 교육기관 | 트레이닝 기업 | 기간 |
+|---|---|---|---|---|
+| 교육 | **피지컬 AI 과정** | K-Digital Training | **ETEDU** | 2026 ~ 수강 중 |
 
 <!-- 자격증·수상이 생기면 위 표에 한 줄씩 추가하세요 -->
 
