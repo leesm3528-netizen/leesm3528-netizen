@@ -2,7 +2,7 @@
 
 # Git Exercise
 
-**이성민** · Physical AI Developer
+**이성민 (Sungmin Lee)** · Physical AI Developer
 
 아이디어를 직접 실행되는 프로그램으로 만들고, 배포해서 누구나 써 볼 수 있게 하고,<br>
 만든 과정을 학습 노트로 기록합니다.
@@ -20,7 +20,7 @@
 - **K-Digital 피지컬 AI 과정**(트레이닝: ETEDU)에서 Python, 컴퓨터 비전, 웹, Git을 배우고 있습니다.
 - 웹캠과 AI 모델(YOLO, MediaPipe, Teachable Machine)로 **현실 세계를 인식하는 프로그램**을 주로 만듭니다.
 - 만든 프로그램은 **GitHub Pages와 Vercel로 배포**해서 링크 하나로 바로 써 볼 수 있게 합니다.
-- 모든 프로젝트에 **작업 기록과 학습 노트**를 남깁니다. 무엇을 했는지와 함께 왜 그렇게 했는지도 적습니다.
+- 주요 프로젝트마다 **작업 기록과 학습 노트**를 남깁니다. 무엇을 했는지와 함께 왜 그렇게 했는지도 적습니다.
 
 ---
 
@@ -52,8 +52,8 @@
 
 | 프로젝트 | 설명 | 기술 | 링크 |
 |---|---|---|---|
-| **아두몰 (Arduino Shop)** | 아두이노 부품 쇼핑몰: 상품 검색·정렬, 장바구니, 회원가입, 토스페이먼츠 테스트 결제까지 구현한 풀스택 서비스 | Next.js · TypeScript · Supabase · Vercel | [Live](https://arduino-shop-gamma.vercel.app) |
-| **드래곤볼 PC 연구소** | 다나와 부품 최저가를 수집하고, 예산 안에서 소켓·파워 호환성을 검사해 가성비 조합을 자동 추천 | Python · JS · Vercel | [Live](https://dragonball-pc.vercel.app) |
+| **아두몰 (Arduino Shop)** | 아두이노 부품 쇼핑몰: 상품 검색·정렬, 장바구니, 회원가입, 토스페이먼츠 테스트 결제까지 구현한 풀스택 서비스 | Next.js · TypeScript · Supabase · Vercel | [Repo](https://github.com/leesm3528-netizen/arduino-shop) · [Live](https://arduino-shop-gamma.vercel.app) |
+| **드래곤볼 PC 연구소** | 다나와 부품 최저가를 수집하고, 예산 안에서 소켓·파워 호환성을 검사해 가성비 조합을 자동 추천 | Python · JS · Vercel | [Repo](https://github.com/leesm3528-netizen/dragonball-pc) · [Live](https://dragonball-pc.vercel.app) |
 | **연애 사주** | 사주·MBTI·혈액형·체격으로 솔로/커플 궁합을 계산하고, 직접 그린 SVG 캐릭터와 점수 애니메이션으로 결과를 보여 줌 | HTML · CSS · JS · Python | [Repo](https://github.com/leesm3528-netizen/saju-love-match) · [Live](https://leesm3528-netizen.github.io/saju-love-match/) |
 
 ### Game
@@ -78,9 +78,9 @@
 
 ## Education & Certifications
 
-| 구분 | 과정 | 교육기관 | 트레이닝 기업 | 기간 |
+| 구분 | 과정 | 지원 사업 | 트레이닝 기업 | 기간 |
 |---|---|---|---|---|
-| 교육 | **피지컬 AI 과정** | K-Digital Training | **ETEDU** | 2026 ~ 수강 중 |
+| 교육 | **피지컬 AI 과정** | 고용노동부 K-Digital Training | **ETEDU** | 2026 ~ 수강 중 |
 
 <!-- 자격증·수상이 생기면 위 표에 한 줄씩 추가하세요 -->
 
@@ -95,16 +95,16 @@
 | Vision | [snake](https://github.com/leesm3528-netizen/snake) | GitHub Pages |
 | Vision | [vision](https://github.com/leesm3528-netizen/vision) | 로컬 실행 |
 | Web | [saju-love-match](https://github.com/leesm3528-netizen/saju-love-match) | GitHub Pages |
-| Web | 아두몰 (arduino-shop) · 비공개 | Vercel |
-| Web | 드래곤볼 PC 연구소 (dragonball-pc) · 비공개 | Vercel |
+| Web | [arduino-shop](https://github.com/leesm3528-netizen/arduino-shop) | Vercel |
+| Web | [dragonball-pc](https://github.com/leesm3528-netizen/dragonball-pc) | Vercel |
 | Game | [pinball](https://github.com/leesm3528-netizen/pinball) | GitHub Pages |
 
 ---
 
 ## Collaboration
 
-- **Git 워크플로** — 기능 단위로 커밋하고 브랜치로 작업한 뒤 `main`에 반영합니다. 커밋 메시지에는 무엇을 왜 바꿨는지 적습니다.
-- **문서로 소통** — 모든 레포에 README, 실행 방법, 작업 기록(WORKLOG / STUDY_NOTES / LEARNING_GUIDE)을 남겨 처음 보는 사람도 바로 따라 할 수 있게 합니다.
+- **Git 워크플로** — 기능 단위로 커밋하고, 브랜치에서 작업한 변경은 Pull Request로 검토한 뒤 `main`에 합칩니다. 커밋 메시지에는 무엇을 왜 바꿨는지 적습니다.
+- **문서로 소통** — 주요 레포에 README, 실행 방법, 작업 기록(WORKLOG / STUDY_NOTES / LEARNING_GUIDE)을 남겨 처음 보는 사람도 바로 따라 할 수 있게 합니다.
 - **협업을 고려한 설정** — `.env.example`로 환경 변수를 공유하고, 비밀 키는 커밋하지 않습니다 (`.gitignore` 관리).
 - **함께 배우는 동료** — K-Digital 피지컬 AI 과정 동기들과 함께 학습하고 있습니다.
 
@@ -114,11 +114,10 @@
 
 ---
 
-## GitHub Stats
+## Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leesm3528-netizen&show_icons=true&hide_border=true&count_private=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesm3528-netizen&layout=compact&hide_border=true" height="150"/>
 
 </div>
