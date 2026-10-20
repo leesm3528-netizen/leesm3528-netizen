@@ -55,7 +55,7 @@
 
 | 프로젝트 | 설명 | 기술 | 링크 |
 |---|---|---|---|
-| **Arduino Uno Lab** | LED 깜빡이기부터 디바운싱·인터럽트·PWM·네오픽셀까지 익히고, 버튼으로 켜고 끄는 **실물 신호등**을 브레드보드에 만든 학습 기록 | C++ · Arduino Uno · arduino-cli · Tinkercad | [Repo](https://github.com/leesm3528-netizen/arduino-uno-lab) · [학습 정리](https://github.com/leesm3528-netizen/arduino-uno-lab/blob/main/STUDY_NOTES.md) |
+| **Arduino Uno Lab** | LED 깜빡이기부터 디바운싱·인터럽트·PWM·네오픽셀·소리 센서까지 익히고, 버튼으로 켜고 끄는 **실물 신호등**과 **7세그먼트 숫자 카운터**를 브레드보드에 만든 학습 기록 | C++ · Arduino Uno · arduino-cli · Tinkercad · Wokwi | [Repo](https://github.com/leesm3528-netizen/arduino-uno-lab) · [학습 정리](https://github.com/leesm3528-netizen/arduino-uno-lab/blob/main/STUDY_NOTES.md) |
 
 ### Web Service · Full Stack
 
